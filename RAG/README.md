@@ -1,0 +1,1 @@
+Reference video: [Simplest RAG Explanation with Working Code! Beginner Friendly Step-by-Step Example](https://www.youtube.com/watch?v=wzssm02u35I)
