@@ -9,3 +9,5 @@ HuggingFace/
 
 vectorstore/
 .env
+
+lib/
